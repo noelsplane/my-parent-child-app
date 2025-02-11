@@ -4,9 +4,8 @@
 This is a simple React app that demonstrates parent-to-child and child-to-parent communication. Clicking the button in the child component triggers a state update in the parent component, which updates the child’s content.
 
 ## Setup Instructions
-1. Clone the repository:
-   ```bash
-   `git clone <repo-url>`
+1. Clone the repository in your terminal:
+   `git clone https://github.com/noelsplane/my-parent-child-app.git`
 2. Navigate to the project directory: 
     `cd my-parent-child-app`
 3. Install dependencies with:
