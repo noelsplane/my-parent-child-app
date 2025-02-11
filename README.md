@@ -6,12 +6,12 @@ This is a simple React app that demonstrates parent-to-child and child-to-parent
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   `git clone <repo-url>`
 2. Navigate to the project directory: 
     `cd my-parent-child-app`
 3. Install dependencies with:
-```npm install
+`npm install`
 4. Start the development server:
-    npm start
+    `npm start`
 5. Open your browser and navigate to 'http://localhost:3000'
 
