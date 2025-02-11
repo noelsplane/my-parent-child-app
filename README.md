@@ -8,7 +8,7 @@ This is a simple React app that demonstrates parent-to-child and child-to-parent
    ```bash
    git clone <repo-url>
 2. Navigate to the project directory: 
-    ```cd my-parent-child-app
+    `cd my-parent-child-app`
 3. Install dependencies with:
 ```npm install
 4. Start the development server:
